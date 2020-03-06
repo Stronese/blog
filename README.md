@@ -1,2 +1,1 @@
-# z-qiang.github.io
-z-qiang blog
+# This is a test blog. Thanks.
